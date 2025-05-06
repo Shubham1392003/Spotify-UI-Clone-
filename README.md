@@ -47,7 +47,7 @@ Just follow the same structure to organize additional songs (if playback is adde
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/spotify-ui-clone.git
+   git clone https://github.com/Shubham1392003/spotify-ui-clone.git
    ```
 2. Navigate to the project folder:
    ```bash
@@ -78,7 +78,3 @@ It is **not affiliated with Spotify** and does not include copyrighted content.
 Pull requests are welcome! Feel free to fork this repo and submit improvements or enhancements.
 
 ---
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
